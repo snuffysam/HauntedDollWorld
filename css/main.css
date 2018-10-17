@@ -1,0 +1,59 @@
+.red {
+    background: red;
+}
+
+.orange{
+    background: orange;
+}
+
+.green {
+    background: green;
+}
+
+.blue {
+    background: cyan;
+}
+
+.siteTitle {
+    font-family: 'Homemade Apple', cursive;
+    color: darkorange;
+    font-size: 115%;
+}
+
+.redText {
+    font-family: 'Caveat Brush', cursive;
+    font-size: 110%;
+    color: darkorange;
+}
+
+.pinkText {
+    font-family: 'Caveat Brush', cursive;
+    font-size: 110%;
+    color: #d99d62;
+}
+
+.redOutline {
+    outline-color: darkorange;
+    !important
+}
+
+.mainBackground {
+    background-color: #2b2b2b;
+}
+
+.secondBackground {
+    background-color: #545454;
+    !important
+}
+
+.thirdBackground {
+    background-color: #808080;
+}
+
+img {
+    width: 100%;
+}
+
+.centeredObject {
+    margin: auto;
+}
